@@ -1,0 +1,2 @@
+# wpTest
+sample wordpress theme
